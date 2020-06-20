@@ -7,3 +7,15 @@
 #
 #
 #
+
+
+# MUJGAN .... NOTEBOOK
+
+# DOING WORK ....
+
+# PLOTTING
+
+
+# DATAFRAMES
+
+# FRAMES...
