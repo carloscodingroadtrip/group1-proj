@@ -130,3 +130,4 @@ dmypy.json
 
 #FILES TO BE IGNORED ..... By Adrianna
 config.py
+newfile.py
